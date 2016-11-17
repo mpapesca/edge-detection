@@ -234,6 +234,11 @@ for nMethod = 1:4;
 
     end % end of iteration_idx
 
+
+
+
+    **** Continue from here!! ****
+
     % generate edge map matrix
     % It uses pheromone function to determine edge?
 
